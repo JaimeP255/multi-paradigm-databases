@@ -61,10 +61,6 @@ The full write-ups are in [`docs/`](docs/). They are written in Spanish.
 - Migrating data between paradigms through CSV exports.
 - Business reporting with BIRT.
 
-## My contribution
-
-<!-- TODO: write here, in the first person, what you did in the project. -->
-
 ## Tech
 
 Oracle SQL/PL-SQL · Cassandra (CQL) · Neo4j (Cypher) · BIRT · Oracle SQL Developer Data Modeler
